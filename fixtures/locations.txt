@@ -1,3 +1,3 @@
-Harmless csharp fixture for matrix.
-Harmless javascript-typescript fixture for matrix.
-Harmless actions fixture for matrix.
+Harmless csharp fixture for stale, fresh head.
+Harmless javascript-typescript fixture for stale, fresh head.
+Harmless actions fixture for stale, fresh head.
